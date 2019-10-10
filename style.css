@@ -1,0 +1,101 @@
+.navbar{
+    background-color: aliceblue;
+}
+.navbar-brand{
+    font-size: 2em;;
+}
+.flex-column{
+    width: 250px;
+    height: 500px;
+    margin-left: 0px;
+    
+  
+
+}
+.navbar{
+    height: 50px;
+    background-color: #ffffff;
+    box-shadow: 0 0.01px 0.005px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
+}
+.heading{
+    font-style: normal;
+    font-family: sans-serif;
+    font-size: 3.5em;
+    margin-left: 250px;
+    margin-top: -150px;
+}
+.excel{
+    height: 250px;
+    width: 800px;
+    margin-left: 270px;
+    background-color:aliceblue;
+}
+.excel h4{
+    margin-left: 20px;
+}
+.excel p{
+    margin-left: 20px;
+    }
+
+.excel button{
+    margin-left: 60px;
+    margin-top: 20px;
+    }
+.batch{
+    margin-top: 50px;
+}
+.one{
+    height: 300px;
+    width: 300px;
+}
+.one h3, h5{
+    margin-left: 90px;
+    margin-top: -50px;
+}
+.one img{
+    height: 70px;
+    border-radius: 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.one p{
+    margin-left: 30px;
+}
+
+button{
+  display: block;
+  width: 120px;
+  height: 50px;
+  border: none;
+    
+  background-size: 200%;
+     color: #fff;
+  outline: none;
+  cursor: pointer;
+  transition: .5s;
+    margin-left: 80px;
+}
+
+button:hover{
+  background-position: right;
+}
+.two{
+    margin-left: 450px;
+    margin-top: -300px;
+}
+
+.three{
+    margin-left: 900px;
+    margin-top: -300px;
+
+}
+.text-center{
+    font-size: 1.5em;
+}
+.last{
+    background-color: white;
+}
+.foot a{
+    margin-left: 200px;
+    font-size: 1.5em;
+}
